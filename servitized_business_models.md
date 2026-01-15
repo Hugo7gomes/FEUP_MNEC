@@ -1,4 +1,10 @@
 
+## Definition
+
+Servitized business models are business models in which firms move from selling standalone products to creating and capturing value through integrated products and services, with an emphasis on use, performance, and outcomes rather than ownership. They rely on closer, long-term relationships with customers, greater provider responsibility, and the use of digital technologies, data, and analytics to continuously support, optimize, and improve customer activities, reflecting a shift from product-centric to service- and outcome-centric value creation.
+
+
+
 # Servitized Business Models
 
 | Type of Servitized Business Model | Short Definition | Example |
