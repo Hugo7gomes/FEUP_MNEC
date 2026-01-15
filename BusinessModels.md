@@ -1,0 +1,9 @@
+| Business model        | Core logic | Main value creation mechanism | Role in the market | Typical revenue logic | Representative examples |
+|----------------------|------------|-------------------------------|--------------------|------------------------|-------------------------|
+| Omnichannel | Integrates multiple channels into a single, seamless customer experience | Consistency and continuity across touchpoints (online, offline, mobile, platform) | Customer-experience integrator | Sales, subscriptions, cross-channel monetization | Amazon, Zara, digital banking |
+| Ecosystem driver | Orchestrates a network of partners around a platform | Coordination, network effects, complementor innovation | Orchestrator / rule-setter | Platform fees, subscriptions, data monetization | Apple, Google, Autodesk |
+| Modular producer | Specializes in a component that integrates into larger systems | Specialization and interoperability | Complementor / specialist | B2B sales, licensing, contracts | Nvidia, SAP modules |
+| Supplier (B2B) | Provides products or services to other firms | Efficiency, reliability, customization | Upstream value creator | Long-term contracts, volume pricing, subscriptions | Cloud infrastructure providers, industrial suppliers |
+| Particular (B2C) | Serves individual end users directly | Usability, convenience, personalization | End-user value provider | Subscriptions, usage-based fees, one-off sales | Netflix, Spotify, consumer apps |
+| Value chain | Focuses on one or more stages of production or distribution | Cost efficiency or differentiation at specific stages | Chain optimizer or specialist | Margin capture at each stage | Manufacturing firms, logistics providers |
+| Business design | Holistic configuration of how value is created, delivered, and captured | Strategic coherence and adaptability | Meta-model (design logic) | Depends on chosen configuration | Digital-native firms, startups |
